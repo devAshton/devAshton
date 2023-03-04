@@ -4,13 +4,14 @@ Programming languages I know:
 - Python
 - HTML, CSS, PHP, JS
 - LUA
-- Java (very little)
+- Java
 
 What I can do:
 - Applications
 - Websites (fontend/backend)
 - Games
 - Editing
+- Discord bots
 
 Subscribe to my YouTube channel!
 [cdnAshton](https://youtube.com/c/cdnashton)
